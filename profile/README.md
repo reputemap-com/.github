@@ -11,6 +11,8 @@ drafts in your voice, and white-label PDF reports for clients.
   (official registry: `com.reputemap/reputemap` — works in Claude, Cursor,
   and any MCP client · docs: https://reputemap.com/docs/mcp)
 - 💡 Examples & recipes: [reputemap/examples](https://github.com/reputemap/examples)
+- 🛠 Agent skills: [reputemap/review-skills](https://github.com/reputemap/review-skills)
+  (`npx skills add reputemap/review-skills`)
 - 💼 LinkedIn: https://www.linkedin.com/company/reputemap
 
 Questions → yaro@reputemap.com

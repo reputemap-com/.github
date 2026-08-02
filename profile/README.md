@@ -7,9 +7,10 @@ drafts in your voice, and white-label PDF reports for clients.
 - 🌐 Site: https://reputemap.com
 - 🚀 App: https://app.reputemap.com — 14-day free trial
 - 📚 API docs: https://reputemap.com/docs/api
-- 🤖 MCP server for AI agents: https://reputemap.com/docs/mcp
+- 🤖 MCP server for AI agents: [reputemap/mcp](https://github.com/reputemap/mcp)
   (official registry: `com.reputemap/reputemap` — works in Claude, Cursor,
-  and any MCP client)
+  and any MCP client · docs: https://reputemap.com/docs/mcp)
 - 💡 Examples & recipes: [reputemap/examples](https://github.com/reputemap/examples)
+- 💼 LinkedIn: https://www.linkedin.com/company/reputemap
 
 Questions → yaro@reputemap.com
